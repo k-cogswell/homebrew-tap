@@ -1,8 +1,8 @@
 class Jott < Formula
   desc "Minimal, terminal-centric markdown time tracker"
   homepage "https://github.com/k-cogswell/jott"
-  url "https://github.com/k-cogswell/jott/archive/refs/tags/1.1.1.tar.gz"
-  sha256 "540a6ccc57b264f757868b455690a8c31349ebc72cf37c20936e52b490f6036d"
+  url "https://github.com/k-cogswell/jott/archive/refs/tags/1.1.2.tar.gz"
+  sha256 "75350854695b7744ee89065713a6ec5657da0e3b229bc5e1f299e7e1650e9669"
   license "MIT"
 
   def install
